@@ -1,5 +1,5 @@
 export const config = {
-    api_server: 'http://192.122.99.69/',
+    api_server: 'http://192.122.99.69:4000/',
     path_authenticate: 'users/authenticate',
     path_getLatestPosts: 'posts/feed/',
     path_resetPassword: 'users/resetPassword',
